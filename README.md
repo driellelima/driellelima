@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4AFAC&size=22&center=true&vCenter=true&width=1000&lines=oii!+eu+sou+a+Drielle+😊;formada+em+design+de+jogos+e+aspirante+à+desenvolvera+front-end;seja+muito+bem+vindo(a)+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4AFAC&size=22&center=true&vCenter=true&width=1000&lines=oii!+eu+sou+a+Drielle+😊;formada+em+design+de+jogos+e+ux,+aspirante+à+desenvolvera+front-end;seja+muito+bem+vindo(a)+:%29)](https://git.io/typing-svg) 
 
 
 #### habilidades <img align="right" src="https://i.picasion.com/pic92/21e396cd0755f9454be9d9ab35d9fa87.gif" width="200" height="200" border="0"/></a><br/>
