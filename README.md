@@ -14,14 +14,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp; 
 
-.
 
-##
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=driellelima&show_icons=true&count_private=true&hide_border=true&title_color=F4AFAC&icon_color=A1EB9A&text_color=c9d1d9&bg_color=0d1117" alt=" Drielle Lima's Github Status"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driellelima&layout=compact&hide_border=true&title_color=F4AFAC&text_color=00bfbf&bg_color=0d1117"/>
-</div>
 
 ##
 
